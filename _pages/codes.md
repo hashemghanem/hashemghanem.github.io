@@ -1,7 +1,7 @@
 ---
 permalink: /codes/
 title: "codes"
-excerpt: "This is a page not in th emain menu"
+excerpt: "qwerty"
 author_profile: true
 redirect_from: 
   - "/nmp/"
