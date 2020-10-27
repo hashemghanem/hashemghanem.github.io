@@ -1,6 +1,6 @@
 ---
 permalink: /pubs/
-title: "pubs"
+title: "Publications"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,8 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
 
-Heading 1
-======
 
-Heading 2
+Preprint: 
 ======
+Hashem Ghanem, Nicolas Keriven, Nicolas Tremblay. **Fast Graph Kernel with Optical Random Features** . In Preprint, 2020. ([pdf](https://arxiv.org/pdf/2010.08270.pdf))
