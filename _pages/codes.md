@@ -1,6 +1,6 @@
 ---
 permalink: /codes/
-title: "codes"
+title: "Codes"
 excerpt: "qwerty"
 author_profile: true
 redirect_from: 
