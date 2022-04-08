@@ -1,11 +1,8 @@
 ---
-permalink: /pubs/
+layout: archive
 title: "Publications"
-excerpt: "This is a page not in th emain menu"
+permalink: /pubs/
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
 ---
 
 
