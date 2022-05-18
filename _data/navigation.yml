@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications_navig"
+  - title: "Publications"
     url: /pubs/
 
   - title: "Codes"
@@ -8,6 +8,3 @@ main:
     
   - title: "Blog Posts"
     url: /year-archive/
-
-  - title: "Talks"
-    url: /talks/    
