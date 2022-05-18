@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publi"
+<!-- title: "" -->
 permalink: /pubs/
 author_profile: true
 ---
