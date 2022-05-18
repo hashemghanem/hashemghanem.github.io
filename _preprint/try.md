@@ -1,8 +1,8 @@
 ---
-authors: "Hashem Ghanem, Nicolas Keriven, Nicolas Tremblay"
-title: "Fast Graph Kernel with Optical Random Features"
-collection: ICASSP 2021
-date: 06/06/2021
-venue: 'ICASSP 2021'
-paperurl: 'https://arxiv.org/abs/2010.08270'
+authors: "Hashem Ghanem, Joseph Salmon, Nicolas Keriven, Samuel Vaiter"
+title: "Supervised learning of analysis-sparsity priors with automatic differentiation"
+collection: preprint
+date: 2021-12-17
+venue: 'arXiv Preprint'
+paperurl: 'https://arxiv.org/abs/2112.07990'
 ---
