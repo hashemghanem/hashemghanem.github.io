@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Pubs"
+title: ""
 permalink: /pubs/
 author_profile: true
 ---
