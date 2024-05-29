@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student currently in my 3d year working on graph learning with bilevel optimization. This research is funded by [CNRS](http://www.cnrs.fr/fr) and hosted by both [L'Institut de Mathématiques de Bourgogne (IMB)](https://math.u-bourgogne.fr/) and [GIPSA-Lab](http://www.gipsa-lab.fr/) in France. Supervisors: [Samuel VAITER](http://samuelvaiter.com/), [Joseph SALMON](http://josephsalmon.eu/) and [Nicolas KERIVEN](https://nkeriven.github.io/).\
+I have a PhD in graph learning for Graph Neural Networks (GNNs) with bilevel optimization. This research is funded by [CNRS](http://www.cnrs.fr/fr) and hosted by [L'Institut de Mathématiques de Bourgogne (IMB)](https://math.u-bourgogne.fr/), [Laboratoire Jean Alexandre Dieudonné (LJAD)](https://math.univ-cotedazur.fr/) and [GIPSA-Lab](http://www.gipsa-lab.fr/) in France. Supervisors: [Samuel VAITER](http://samuelvaiter.com/), [Joseph SALMON](http://josephsalmon.eu/) and [Nicolas KERIVEN](https://nkeriven.github.io/).\
 Besides, I hold a M.Sc. in signal and image processing from [Grenoble INP university](https://phelma.grenoble-inp.fr/en), 2020. \
-I have been qualified to the regional collegiate programming contest [ACPC](http://acpc.global/) four times (from 2014 to 2018). 
+I am currently in the R&D department at EXPLEO France, where I am working on develping LLM models and its applications.
 
 Research Interests:
 ======
-Probabilities, graph machine learning, graph networks analysis, statistical learning, AI. 
+Probabilities, Large Language Models LLMs, graph machine learning, graph networks analysis. 
 
 
 
